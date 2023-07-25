@@ -5,7 +5,7 @@ modules.json
 terraform.tfstate
 .env
 .terraform.tfstate.lock.info
-terraform
+
 .vscode
 terraform.tfstate.backup
 __pycache__
